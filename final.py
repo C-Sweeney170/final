@@ -13,7 +13,6 @@ explosion methods used and a pie chart of the different deployment countries
 """
 
 #importing all necessary modules
-pip install matplotlib
 import streamlit as st
 import pydeck as pdk
 import matplotlib.pyplot as plt
